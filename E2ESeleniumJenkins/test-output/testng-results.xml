@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2018-06-08T20:28:18Z" name="Default suite" finished-at="2018-06-08T20:28:23Z" duration-ms="4549">
+  <suite name="Default suite" duration-ms="9168" started-at="2018-06-11T15:32:13Z" finished-at="2018-06-11T15:32:22Z">
     <groups>
     </groups>
-    <test started-at="2018-06-08T20:28:18Z" name="Default test" finished-at="2018-06-08T20:28:23Z" duration-ms="4549">
+    <test name="Default test" duration-ms="9168" started-at="2018-06-11T15:32:13Z" finished-at="2018-06-11T15:32:22Z">
       <class name="testcases.TC_001">
-        <test-method signature="testcase1()[pri:0, instance:testcases.TC_001@313b2ea6]" started-at="2018-06-08T20:28:18Z" name="testcase1" finished-at="2018-06-08T20:28:23Z" duration-ms="4526" status="PASS">
+        <test-method status="PASS" signature="testcase1()[pri:0, instance:testcases.TC_001@224edc67]" name="testcase1" duration-ms="9140" started-at="2018-06-11T15:32:13Z" finished-at="2018-06-11T15:32:22Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testcase1 -->
